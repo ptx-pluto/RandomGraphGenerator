@@ -1,0 +1,6 @@
+.idea
+random_edges.csv
+random_nodes.csv
+building_nodes.csv
+.ipynb_checkpoints
+__pycache__
